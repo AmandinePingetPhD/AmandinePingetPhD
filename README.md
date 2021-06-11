@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Deep Learning, Machine Learning, Data Analysis, Data Management...
 - 🌱 I’m currently learning piano and a lot more things
 - 💞️ I’m looking to collaborate on Data science/dev projects
-- 📫 How to reach me: here
+- 📫 How to reach me: here or https://amandine-pinget-phd-en.webflow.io/
 
 <!---
 AmandinePingetPhD/AmandinePingetPhD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
