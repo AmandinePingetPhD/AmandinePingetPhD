@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmandinePingetPhD
+- 👋 Hi, I’m @AmandinePingetPhD, quite busy Lead Data Scientist in a startup, developping IA/NLP models
 - 👀 I’m interested in Data Science, Deep Learning, Machine Learning, Data Analysis, Data Management...
 - 🌱 I’m currently learning piano and a lot more things
 - 💞️ I’m looking to collaborate on Data science/dev projects
