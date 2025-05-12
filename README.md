@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AmandinePingetPhD, quite busy Data Scientist, developing IA/NLP/ML models to provide business solutions:
-Previously applied to supply chain (Fine watchmaking), business intelligence (NLP) and currently marketing (manufacturing).
+Previously applied to supply chain (Fine watchmaking), business intelligence (NLP) and currently marketing (international manufacturing group).
 - 👀 I’m interested in Data Science, Deep Learning, Machine Learning, Data Analysis, Data Management...
 - 🌱 I’m currently learning piano, guitar, and a lot more things
-- 💞️ I’m looking to collaborate on Data science/dev projects
+- 💞️ I’m looking to collaborate on Data science/dev projects. Currently collaborating on [EnstitutLengouaSavoyarda](https://github.com/EnstitutLengouaSavoyarda)
 - 📫 How to reach me: here or https://amandine-pinget-phd-en.webflow.io/
 
 <!---
